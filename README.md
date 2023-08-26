@@ -48,6 +48,6 @@ The analysis suggests pathways for further optimization of deep learning for aut
 
 ## References
 
-- [CheXpert Dataset]((https://drive.google.com/drive/folders/1i7Mr78I63-nNxOOgYPaPszZnGy4eSbl2?usp=drive_link))
+- [CheXpert Dataset](https://drive.google.com/drive/folders/1i7Mr78I63-nNxOOgYPaPszZnGy4eSbl2?usp=drive_link)
 
 - [Stanford ML Group]((https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2)https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2)
