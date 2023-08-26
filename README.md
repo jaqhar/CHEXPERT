@@ -45,7 +45,11 @@ The analysis suggests pathways for further optimization of deep learning for aut
 - pandas
 - scikit-learn
 - matplotlib
+  
+## The project contains the following files and directories:
 
+- ``
+- `README.md`: This file.
 ## References
 
 - [CheXpert Dataset](https://drive.google.com/drive/folders/1i7Mr78I63-nNxOOgYPaPszZnGy4eSbl2?usp=drive_link)
