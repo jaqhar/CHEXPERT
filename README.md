@@ -11,6 +11,7 @@ ResNet50
 ResNet101
 DenseNet121
 MobileNet
+
 These models leverage transfer learning from ImageNet weights as a starting point. The models were further optimized through techniques like fine-tuning, regularization via dropout, data augmentation, learning rate scheduling and early stopping.
 
 Training Framework
